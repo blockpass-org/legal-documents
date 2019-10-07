@@ -6,7 +6,7 @@
 
 We have updated our Privacy Policy to make sure:
 
-**The Policy reflects the latest changes made to our products.**
+1. **The Policy reflects the latest changes made to our products.**
 
 ### Overview
 
@@ -157,7 +157,7 @@ Please contact us at legal@blockpass.org or submit any written request to:
 
 Please contact us in the first instance if you have any questions or concerns. If you have unresolved concerns, you have the right to file a complaint with a data protection authority in the country where you live or work or where you feel your rights have been infringed.
 
-Last updated: 4 October 2019
+_Last updated: 4 October 2019_
 
 ## COOKIES POLICY
 

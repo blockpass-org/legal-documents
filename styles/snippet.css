@@ -1,0 +1,22 @@
+/* blockpass legal list numbering */
+
+/* hide the browser applied list-item numbers */
+ol {
+  list-style-type: none;
+}
+
+/* make the default bullet a consistent square */
+ul {
+  list-style-type: square;
+}
+
+/* sample css for very subtle bullets for manually ordered-lists */
+ol li:before {
+  content: '►';
+  position: relative;
+  height: 0;
+  font-size: smaller;
+  display: block;
+  margin-left: -2em;
+  color: #E8E8E8;
+}

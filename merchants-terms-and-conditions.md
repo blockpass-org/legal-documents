@@ -53,21 +53,21 @@ The following definitions and interpretations apply to these terms.
 
 #### Interpretation:
 
-1. Headings shall not affect the interpretation of this document.
+- Headings shall not affect the interpretation of this document.
 
-2. A person includes a natural person, corporate or unincorporated body (whether or not having separate legal personality) and that person’s legal representatives, successors and permitted assignees. 
+- A person includes a natural person, corporate or unincorporated body (whether or not having separate legal personality) and that person’s legal representatives, successors and permitted assignees. 
 
-3. Any obligation on a person not to do something includes an obligation not to agree or allow that thing to be done.
+- Any obligation on a person not to do something includes an obligation not to agree or allow that thing to be done.
 
-4. Any words following the terms including, include, in particular, for example or any similar expression shall be construed as illustrative and shall not limit the sense of the words, description, definition, phrase or term preceding those terms.
+- Any words following the terms including, include, in particular, for example or any similar expression shall be construed as illustrative and shall not limit the sense of the words, description, definition, phrase or term preceding those terms.
 
-5. Unless the context otherwise requires, words in the singular shall include the plural and in the plural shall include the singular.
+- Unless the context otherwise requires, words in the singular shall include the plural and in the plural shall include the singular.
 
-6. A reference to a statute or statutory provision is a reference to it as amended and includes all relevant regulations.
+- A reference to a statute or statutory provision is a reference to it as amended and includes all relevant regulations.
 
-7. A reference to writing or written includes fax and email.
+- A reference to writing or written includes fax and email.
 
-8. Unless the context otherwise requires a reference to one gender shall include all genders.
+- Unless the context otherwise requires a reference to one gender shall include all genders.
 
 ### 3. Services
 
@@ -240,10 +240,9 @@ Where Blockpass provides links from its website/platform to other sites and reso
 
 ### 14. Public announcements
 
-- 14.1 Blockpass reserves the right to disclose the existence of this commercial relationship for marketing purposes which may include the use of logos and other marketing materials. Any further public statements must be made on mutually agreeable terms only.
-- 14.2 The parties are prevented from disclosing any of these Terms, whether expressly covered by a confidentiality clause or otherwise.
-
-- 14.3 The parties agree to maintain a respectful working relationship and not to make any disparaging comments against each other.
+1. 14.1 Blockpass reserves the right to disclose the existence of this commercial relationship for marketing purposes which may include the use of logos and other marketing materials. Any further public statements must be made on mutually agreeable terms only.
+2. 14.2 The parties are prevented from disclosing any of these Terms, whether expressly covered by a confidentiality clause or otherwise.
+3. 14.3 The parties agree to maintain a respectful working relationship and not to make any disparaging comments against each other.
 
 ### 15. Intellectual Property
 
@@ -281,15 +280,15 @@ The Merchant  shall indemnify and hold harmless Blockpass, its Group and their r
    1. (a)  death or personal injury caused by negligence;
    2. (b)  fraud or fraudulent misrepresentation.
 
-1. 18.6 The following types of loss are wholly excluded by Blockpass: 
+6. 18.6 The following types of loss are wholly excluded by Blockpass: 
 
-  1. (1) Indirect or consequential loss; 
-  1. (2) Loss of profits or prospects; 
-  1. (3) Loss of sales or business; 
-  2. (4) Loss of contracts or Agreements; 
-  3. (5) Loss of anticipated savings; 
-  4. (6) Loss of use or corruption of software, data or information; 
-  5. (7) Loss of or damage to goodwill.
+     1. (1) Indirect or consequential loss; 
+     2. (2) Loss of profits or prospects; 
+     3. (3) Loss of sales or business; 
+     4. (4) Loss of contracts or Agreements; 
+     5. (5) Loss of anticipated savings; 
+     6. (6) Loss of use or corruption of software, data or information; 
+     7. (7) Loss of or damage to goodwill.
 
 18.7 Unless the Merchant notifies Blockpass that it intends to make a claim in respect of an event within the notice period, Blockpass shall have no liability for that event. The notice period for an event shall start on the day on which the Merchant became, or ought reasonably to have become aware of the event having occurred and shall expire six (6) months from that date. The notice must be in writing and must identify the event and the grounds for the claim in reasonable detail.
 
