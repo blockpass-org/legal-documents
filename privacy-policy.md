@@ -1,51 +1,53 @@
-# PRIVACY POLICY
+## PRIVACY POLICY
 
-Version 3.0 ︱Effective from 4 October 2019
+###### Version 3.0 ︱Effective from 4 October 2019
 
-**Updates**
+### Updates
 
 We have updated our Privacy Policy to make sure:
 
 **The Policy reflects the latest changes made to our products.**
 
+### Overview
+
 This policy sets out how we will use, store, share and protect the information we collect about you when you visit our website or App, use our products or services, or otherwise interact with us and how you may access and control the information. In this policy, “**Blockpass**” or “**we**” refers to Blockpass IDN Limited of Suite 1701-02 17F FWD Financial Centre, 308 Des Voeux Road, Central, Hong Kong (together with our subsidiaries) and “**Platform**” means our website at https://www.blockpass.org/ and our software, namely Blockpass App.
 
 In this policy, “**personal information**” refers to any data, information, or combination of data and information that is provided by you to us, or through your use of our products or services, that relates to an identifiable individual. Please read this Privacy Policy carefully and ensure that you understand it. Your continued use of the products and/or services is deemed as acceptance of our Privacy Policy.
 
-**What this Policy covers**
+### What this Policy covers
 
 This Privacy Policy applies only to your use of Blockpass App and Blockpass website, including newsletter subscription and any promotion/offers we make available from time to time. It does not extend to any websites that are linked to or from our site (whether we provide those links or whether they are shared by other users). We have no control over how your data is collected, stored or used by third party websites you connect to and we advise you to check the privacy policies of any such websites before providing any data to them.
 
-**Your Blockpass ID**
+### Your Blockpass ID
 
-###### Stage 1 - Creating your Blockpass digital identity 
+#### Stage 1 - Creating your Blockpass digital identity 
 
 To create a digital identity with Blockpass all we need is for you to submit your email address. 
 
-###### Stage 2 - Getting verified 
+#### Stage 2 - Getting verified 
 
 To get verified you will need to add your personal information such as name, address, photographic and video ID. To enhance the accuracy of your digital identity you may be required to provide additional data, such as date of birth, copy of ID, citizenship information, country of residence, among others which may include video verification. Under your instructions and consent we will share the data to be verified.   
 
-###### Stage 3 - Registering with third party services
+#### Stage 3 - Registering with third party services
 
 Now that you are verified, you are able to use your Blockpass ID to register with third party service providers (“merchants”). Different merchants may require different types of information and you have control over your data during onboarding procedures. We will seek your consent  to share the relevant data with the merchants so you can access the merchant’s services. 
 
 You can edit and review your personal information directly in the App. If you choose to cancel your account with us we will delete your information unless we are prevented to do so by law and to prevent fraud and money laundering. Your personally identifiable information will not be sold or shared with third parties, except as necessary for the provision of the services to you, to prevent fraud or money laundering and assist law enforcement in accordance with this Privacy Policy.
 
-**What information we collect about you**
+### What information we collect about you
 
 We collect the following types of information about you:
 
-* account and profile information that you provide when you register for an account or sign up for our products or services, for example your name, date of birth and gender, residential address, email address, telephone number(s) (collectively, “**Account** **Data**”);
+* account and profile information that you provide when you register for an account or sign up for our products or services, for example your name, date of birth and gender, residential address, email address, telephone number(s) (collectively, “**Account Data**”);
 
-* information you provide through support channels, for example when you report a problem to us or interact with our support team, including any contact information, documentation, or screenshots (collectively, “**Support** **Data**”);
+* information you provide through support channels, for example when you report a problem to us or interact with our support team, including any contact information, documentation, or screenshots (collectively, “**Support Data**”);
 
-* communication, marketing, and other preferences that you set when you set up your account or profile, or when you participate in a survey or a questionnaire that we send you (collectively, “**Preference** **Data**”);
+* communication, marketing, and other preferences that you set when you set up your account or profile, or when you participate in a survey or a questionnaire that we send you (collectively, “**Preference Data**”);
 
-* information about your device or connection, for example your internet protocol (IP) address, log-in data, browser type and version, time-zone setting, browser plug-in types and versions, operating system and platform, and other technology on the devices you use to access our products or services and information we collect through cookies and other data collection technologies (please read our Cookies Policy for details) (collectively, “**Technical** **Data**”); 
+* information about your device or connection, for example your internet protocol (IP) address, log-in data, browser type and version, time-zone setting, browser plug-in types and versions, operating system and platform, and other technology on the devices you use to access our products or services and information we collect through cookies and other data collection technologies (please read our Cookies Policy for details) (collectively, “**Technical Data**”); 
 * blockchain addresses; and
 
-* Information about your use of or visit to our Platform, for example your clickstream to, through, and from our Platform, products you viewed, used, or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), or methods to browse away from the page. (collectively, “**Usage** **Data**”).
+* Information about your use of or visit to our Platform, for example your clickstream to, through, and from our Platform, products you viewed, used, or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), or methods to browse away from the page. (collectively, “**Usage Data**”).
 
 Without this information, we may not be able to provide you with our products or services (or with all of the features and functionality offered by our products or services) or to respond to queries or requests that you submit to us.
 
@@ -53,7 +55,7 @@ We collect the above information when you provide it to us or when you use or vi
 
 We do not collect sensitive data or special category data about you. This includes details about your race, ethnic origin, politics, religion, trade union membership, genetics, health, or sexual orientation.
 
-**How we use information we collect**
+### How we use information we collect
 
 We only use your personal information where the law allows us to. We use your personal information only where:
 
@@ -69,7 +71,7 @@ If you have given us consent to use your personal information for a specific pur
 
 We do not share your personal information with any company outside our group for marketing purpose, unless with your express specific consent to do so. For visitors to or users of our Platform who are located in the European Union, we have set out our legal basis for processing your information in the Legal Basis Table at the end of this Policy.
 
-**How we share information we collect**
+### How we share information we collect
 
 We share information with other companies in our group in order to operate our Platform and to offer and improve our products and services.
 
@@ -89,7 +91,7 @@ We may share your information with government and law enforcement officials to c
 
 If we are acquired by a third party as a result of a merger, acquisition, or business transfer, your personal information may be disclosed and/or transferred to a third party in connection with such transaction. We will notify you if such transaction takes place and inform you of any choices you may have regarding your information.
 
-**How** **we** **store** **and** **secure** **information** **we** **collect**
+### How we store and secure information we collect
 
 We use data hosting service providers based in US and Ireland to host the information we collect. Your account is password protected to protect the security and integrity of your personal information.
 
@@ -99,13 +101,13 @@ We have put in place procedures to deal with any suspected privacy breach and wi
 
 While we implement safeguards designed to protect your information, please note that no transmission of information on the Internet is completely secure. We cannot guarantee that your information, during transmission through the Internet or while stored on our systems or processed by us, is absolutely safe and secure.
 
-**How we transfer information internationally**
+### How we transfer information internationally
 
 We collect information globally and primarily store that information in US and Ireland. We transfer, process, and store your information outside your country of residence where we or our service providers operate for the purpose of providing our products and services to you.
 
 Some of the countries in which our companies or service providers are located may not have the privacy and data protection laws that are equivalent to those in your country of residence. When we share information with these companies or service providers, we make use of contractual clauses, corporate rules, and other appropriate mechanisms to safeguard the transfer of information.
 
-**Your rights**
+### Your rights
 
 You have the right to:
 
@@ -133,29 +135,31 @@ Any request under this Section will normally be addressed free of charge. Howeve
 
 We will respond to all legitimate requests within one (1) month. Occasionally, it may take us longer than a month if your request is particularly complex or if you have made a number of requests.
 
-**Changes to this policy**
+### Changes to this policy
 
 We may amend this policy from time to time by posting the updated policy on our Platform. By continuing to use our Platform after the changes come into effect, you agree to be bound by the revised policy.
 
-**Policy towards children**
+### Policy towards children
 
 Our products and services are not directed to individuals under 18. We do not knowingly collect personal information from individuals under 18. If we become aware that an individual under 18 has provided us with personal information, we will take steps to delete such information. Contact us if you believe that we have mistakenly or unintentionally collected information from an individual under 18.
 
-**Contact us**
+### Contact us
 
 Please contact us at legal@blockpass.org or submit any written request to:
 
-Blockpass IDN Limited
+> Blockpass IDN Limited  
+> Suite 1701-02  
+> 17F FWD Financial Centre,  
+> 308 Des Voeux Road, Central,  
+> Hong Kong
 
-Suite 1701-02 17F FWD Financial Centre, 308 Des Voeux Road, Central, Hong Kong
-
-Attn: Data Officer
+> Attn: Data Officer
 
 Please contact us in the first instance if you have any questions or concerns. If you have unresolved concerns, you have the right to file a complaint with a data protection authority in the country where you live or work or where you feel your rights have been infringed.
 
 Last updated: 4 October 2019
 
-**COOKIES POLICY**
+## COOKIES POLICY
 
 Cookies are small text files that are placed on your device by a web server when you access our Platform. We use cookies to identify your access and monitor usage and web traffic on our Platform to customise and improve our products and services.
 
@@ -171,7 +175,7 @@ Functionality cookies – these are used to recognise you when you return to our
 
 You can block cookies by activating the setting on your browser that allows you to refuse the use of all or some cookies. However, if you do so, you may not be able to access all or parts of our site.
 
-**LEGAL BASIS TABLE**
+## LEGAL BASIS TABLE
 
 | **Processing purpose**                                       | **Type of data processed**                                   | **Legal basis**                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
