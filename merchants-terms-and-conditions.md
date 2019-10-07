@@ -370,12 +370,13 @@ The Merchant  shall indemnify and hold harmless Blockpass, its Group and their r
 
 21.3 Notices shall be sent to Blockpass at:
 
-> Att: Legal Department
-> Blockpass IDN Limited 
-> Suite 1701-02, 17/F, Financial Centre
-> 308 Des Voeux Road, Central
+> Att: Legal Department  
+> Blockpass IDN Limited  
+> Suite 1701-02,  
+> 17/F, Financial Centre  
+> 308 Des Voeux Road, Central  
 > Hong Kong
-
+  
 and/or to:
 
 > legal@blockpass.org
