@@ -377,7 +377,7 @@ When further KYC checks are needed, Blockpass and Merchant may reach an agreemen
 
 1. 25.2 Variation
 
-   These T&Cs may only be modified or amended by a document duly signed by all parties. Any provision contained here may only be waived by a document duly signed by the Party waiving such provision.
+   These T&Cs may be modified or amended by Blockpass at its absolute discretion. Any provision contained here may only be waived by a document duly signed by the Party waiving such provision.
 
 1. 25.3 Non-Severability
 
