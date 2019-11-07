@@ -1,8 +1,16 @@
 # PASS VERIFY REGISTRATION AGREEMENT
 
- ## v 2.0 - Effective from 15 October 2019
+ ## v 2.1 - Effective from 7 November 2019
 
-This Agreement governs the relationship between the Token Holder (the “Token Holder” or “you”) and Blockpass IDN Limited, a company registered in Hong Kong under number 256876 and address at Suite 1701-02 17F FWD Financial Centre, 308 Des Voeux Road, Central Hong Kong (“Blockpass”) for PASS Verify registration which is the registration of a suitable address for the holding and activation of PASS tokens (the “Tokens”). By proceeding with this Registration you agree to be bound by the terms of this Agreement (the “Agreement”). Please read this Agreement and the Token Terms in Schedule 1 carefully before proceeding.
+This Agreement governs the relationship between you (the "Member") and Blockpass IDN Limited, a company registered in Hong Kong under number 2566876 and address at Suite 1701-02 17F FWD Financial Centre, 308 Des Voeux Road, Central Hong Kong (“Blockpass”, "us" or "we") for your registration as a Member of Blockpass will include the registration of a suitable address for the holding and activation of PASS tokens (the “Tokens”). By proceeding with this Registration you agree to be bound by the terms of this Agreement (the “Agreement”), including any Schedules and Appendices. Please read this Agreement and the Token Terms in Schedule 1 carefully before proceeding.
+
+### TOKEN TERMS
+
+By purchasing/receiving and/or holding PASS Tokens you have agreed to be bound by the Issuer’s Token Terms which can be found in Schedule 1 (the “Token Terms”). We are not the Issuer and are not responsible for any changes that the Issuer may effect.
+
+Full details about the Issuer’s Tokens can be found on the website below:
+
+https://www.blockpass.org/token
 
 ### REGULATORY NOTICE
 
@@ -14,21 +22,15 @@ The Tokens are NOT available for citizens or residents (tax or otherwise) of any
 
 We do not register Tokens for US persons. If you are a US person we reserve the right to reject your request. Similarly for persons from any other jurisdiction where the sale of tokens is not permitted.
 
-### TOKEN TERMS
+### YOUR PRIVACY
 
-By purchasing/receiving and/or holding PASS Tokens you have agreed to be bound by the Issuer’s Token Terms which can be found in Schedule 1 (the “Token Terms”). We are not the Issuer and are not responsible for any changes that the Issuer may affect.
-
-Full details about the Issuer’s Tokens can be found on the website below:
-
-https://www.blockpass.org/token
+Blockpass collects data on Members for the purpose of this Agreement. Further details on the use and processing your personal data can be found in our Privacy Policy on the [website](https://www.blockpass.org/privacy/).
 
 ### Important Information:
 
+**To complete your registration you will go through our Know Your Customer ("KYC") procedures where Blockpass will collect your data and conduct real time AML checks in accordance with this Agreement and our Privacy Policy. A Member may be rejected or otherwise removed if it fails to complete the KYC checks or if the results are incompatible with our requirements. If a Member is rejected/removed its account will be disabled and any crypto address removed from our whitelist.**
+
 Cryptocurrency tokens are deemed a high risk activity. Please read notices by your local regulator and other national regulators that seek to alert holders of the risks of participating in an Initial Coin Offering or Token Distribution Event. More information on the specification and functionally of the Token is available on the Issuer’s website above.
-
-### YOUR PRIVACY
-
-Blockpass may collect data on Token Holders for the purpose of completing this registration. Further details on the use and processing your personal data can be found on the Blockpass website.
 
 ## Section I - Specific Terms
 
@@ -38,51 +40,50 @@ Blockpass shall process the registration under this Agreement on behalf of the I
 
 #### 2. Registration Services
 
-   1. 2.1 Blockpass agrees to provide you with a registration service (“PASS Verify”) subject to you meeting all the requirements in this Agreement. You shall provide us with a compatible blockchain network address under your control and at which you hold or intend to hold the Tokens. 
+   1. 2.1 Blockpass agrees to provide you with a registration service (“PASS Verify”) subject to you meeting all the requirements in this Agreement. You shall provide us with KYC information and a compatible blockchain network address under your control and at which you hold or intend to hold the Tokens. 
 
    1. 2.2 By proceeding with this registration you are deemed to:
-   have accepted the most recent version of the Terms of Service (“ToS”) for the Blockpass App, published by us at https://www.blockpass.org/terms/ and also made available via the Blockpass App, as the same may be updated from time to time by us in our sole discretion;have access to the most up-to-date version of the Blockpass App on a mobile device that you own, control or use, with which you intend to access the Registration Services;Via the copy of the Blockpass App referenced above, you have successfully completed Blockpass IDN’s identity verification service using the Blockpass Identity application feature within the Blockpass App, and have subsequently received a Blockpass ID and an associated Verified ID Certificate.
+      (a) have accepted the most recent version of the Terms of Service (“ToS”) for the Blockpass products and services, published by us at https://www.blockpass.org/terms/ and also made available via the Blockpass App. The ToS may be updated from time to time at our sole discretion; (b) have access to the most up-to-date version of the Blockpass App on a mobile device that you own, control or use, with which you intend to access the PASS Verify; (c) you have successfully completed Blockpass IDN’s identity verification service using the Blockpass Identity application feature within the Blockpass App, and have subsequently received a Blockpass ID and an associated Verified ID Certificate.
 
-   1. 2.3 In order to register your Tokens you will have to meet the Know Your Customer (“KYC”) and Anti-Money Laundering (“AML”) requirements. Blockpass shall request information from you, including but not limited to (a) full name; (b) address; (c) date of birth; (d) photo ID; (e) proof of address; (f) selfie passport; and (g) video verification.
-
-   1.2.4 Subject to you meeting all KYC requirements and providing a compatible address on the public blockchain network  the Token registration will be approved and the Token address whitelisted.
+   1. 2.3 In order to register your Tokens you will have to meet the Know Your Customer (“KYC”) and Anti-Money Laundering (“AML”) ongoing requirements. Blockpass shall request information from you, including but not limited to (a) full name; (b) address; (c) date of birth; (d) photo ID; (e) proof of address; (f) selfie passport; and (g) video verification.
+   2. 2.4 Subject to you meeting all KYC requirements and providing a compatible address on the public blockchain networt, the registration will be approved and you will become a Member of Blockpass.
 
 #### 3. This Agreement
 
-This Agreement together with the Schedule 1 and the App Terms of Service constitutes the entire agreement with respect to your use of PASS Verify. In the event of any inconsistency or conflict between this Agreement and the Terms of Service:
+This Agreement together with the Schedule 1 and the ToS constitutes the entire agreement with respect to your use of PASS Verify. In the event of any inconsistency or conflict between this Agreement and the ToS:
 
-1. 3.1 With respect to your use under license of and access to the Blockpass App, the Terms of Service for the App shall prevail; and
+1. 3.1 With respect to your use under license of and access to the Blockpass App, the ToS shall prevail; and
 
-2. 3.2 With respect to any other aspect of the provision and receipt of PASS Verify and your use of any Verified PASS Token Address and / or any acquisition, use or disposal by you of PASS Tokens, this Agreement and the Token Terms shall prevail. 
+2. 3.2 With respect to any other aspect of the provision of PASS Verify and your use of any Verified PASS Token Address and / or any acquisition, use or disposal by you of PASS Tokens, this Agreement and the Token Terms shall prevail. 
 
-#### 4. PASS Verify
+#### 4. Verified PASS Token Address
 
-Pursuant to the Registration Services, Blockpass shall can arrange for the designation of a compatible public blockchain network address that you control and at which you hold or intend to hold PASS tokens as a Verified PASS Token Address subject to you submitting, and having been accepted by us, a PASS Address Registration Request in accordance with the following procedure:
+Pursuant to PASS Verify, Blockpass shall can arrange for the designation of a compatible public blockchain network address that you control and at which you hold or intend to hold PASS tokens as a Verified PASS Token Address subject to you submitting, and having been accepted by us, a PASS Address Registration Request in accordance with the following procedure:
 
-1. 4.1 From a mobile device that you own or control and that satisfies conditions in the form, initiate a PASS Address Registration Request via the PASS Verify feature within the Blockpass App.
+1. 4.1 From a mobile device that you own or control and that satisfies conditions in Section 2, initiate a PASS Address Registration Request via the PASS Verify feature within the Blockpass App.
 
-2. 4.2 Submit any additional information that we may require (in our absolute discretion) in order to carry out such “Know-Your-Customer (“KYC”) verification checks that we deem appropriate.
+2. 4.2 Submit any information that we may require (in our absolute discretion) in order to carry out such “Know-Your-Customer (“KYC”) verification checks and ongoing AML checks that we deem appropriate.
 
 3. 4.3 Blockpass may accept or decline any PASS Address Registration Request in its sole absolute discretion, and will notify you of its decision via the Blockpass App. 
 
-4. 4.4 Notification of any accepted PASS Address Registration Request will be accompanied, as part of the Registration Services, by the provision of a PASS Address Registration Certificate, also delivered via your local copy of the Blockpass App, which you can choose, at your discretion, to append to your Blockpass ID. 
+4. 4.4 Notification of any accepted PASS Address Registration Request will be accompanied, as part of the PASS Verify, by the provision of a PASS Address Registration Certificate, also delivered via your local copy of the Blockpass App, which you can choose, at your discretion, to append to your Blockpass ID. 
 
-### 5. Types of registration
+#### 5. Types of registration
 
-6. 5.1 An accepted PASS Address Registration Request may be approved by Blockpass for either: using PASS Tokens to access Blockpass Verification Services ONLY; or using PASS Tokens to access Blockpass Verification Services AND transferring PASS Tokens to a third party.
+6. 5.1 An accepted PASS Address Registration Request may be approved by Blockpass for either: to hold Tokens ONLY; or to hold Tokens AND to transfer PASS Tokens to a third party.
   
 7. 5.2 Following receipt of notification of a successful PASS Verify registration, you will be required to submit the public key of the address on the relevant, compatible public blockchain network that you will use to access the Token Smart Contract (as defined in the Token Terms) and at which you hold or intend to hold PASS Tokens. 
 
-8. 5.3 You agree and acknowledge that the address details you submit will satisfy the criteria prescribed in connection with the Blockpass Protocol (the “Blockpass Address Criteria”) that have been published at https://www.blockpass.org and / or communicated to you by Blockpass IDN at the time the relevant PASS Verify request submitted by you has been accepted.
+8. 5.3 You agree and acknowledge that the address details you submit will satisfy the criteria prescribed in connection with the Blockpass protocol (the “Blockpass Address Criteria”) that have been published at https://www.blockpass.org and / or communicated to you by Blockpass at the time the relevant PASS Verify request submitted by you has been accepted.
 
 9. 5.4 We will arrange for the address that you submit in accordance with this section to be designated as a Verified PASS Token Address on the Blockpass protocol. Once the designation has been successfully obtained it is expected that you will be able to access the functionality of any PASS Tokens you hold at such Verified PASS Token Address, subject to and in accordance with the Token Terms.
 
-10. 5.5 The initial issuance of PASS Tokens has been created in the form of ERC20 tokens (“PASS Tokens”) that are compatible with and that support the registered use and transfer of assets on the public Ethereum Blockchain. The Blockpass Address Criteria for PASS Tokens are as follows:  
+10. 5.5 The initial issuance of PASS Tokens has been created in the form of ERC20 tokens (“PASS Tokens”) that are compatible with and that support the registered use and transfer of assets on the public Ethereum Blockchain. The Blockpass Address Criteria for the ERC20 PASS Tokens are as follows:  
      1. 5.5.1 the address must be an Ethereum address that is not on an exchange and it is in a native Ethereum wallet or any other suitable address; 
      1. 5.5.2 such wallet must possess the technical infrastructure compatible with the receipt, storage and transfer of PASS tokens, tokens that are created in accordance with the ERC20 token standard;
      1. 5.5.3 the address must satisfy any additional requirements prescribed in connection with the operation of  Blockpass Protocol on the blockchain that have been communicated to you by Blockpass at the time the relevant PASS Address Registration Request submitted by you has been accepted. 
 
-11. 5.6 In case the Blockpass project develops over time so as to be compatible with multiple public network programmable blockchains, you will need you will need to have control of a Verified PASS Token Address for each form of blockchain-specific PASS Tokens that you wish to use and / or transfer, which can be obtained by submitting additional PASS Address Registration Requests in accordance with the terms of this Agreement.
+11. 5.6 In case the Blockpass project develops over time so as to be compatible with multiple public network programmable blockchains, the Blockpass Address Criteria will change accordingly and you will need to have control of a Verified PASS Token Address for each form of blockchain-specific PASS Tokens that you wish to use and / or transfer, which can be obtained by submitting additional PASS Address Registration Requests in accordance with the terms of this Agreement.
 
 ## Section II - Standard Terms
 
@@ -93,24 +94,26 @@ Pursuant to the Registration Services, Blockpass shall can arrange for the desig
      2. 6.1.2 Will not be liable for any claims, losses or other liabilities that you may incur as a result of their use by you, and
      3. 6.1.3 Will not be liable for the acts or omissions of any such third parties. 
 
-#### 7. Token Holder Undertakings
+#### 7. Members Warranties and Undertakings
 
- 1. 7.1 For the provision of Registration services on the terms set out in this Agreement, you agree to comply with all the covenants and undertakings described herein, including without limitation, in connection with the acquisition, use and disposal by you of any Tokens, as included in the Token Terms. 
- 2. 7.2 You further represent and warrant on the date of accepting this Agreement, which representations and warranties will be deemed repeated on each date on which this Agreement is in effect, the following:
-    3. 7.2.1 If a natural person, you are of a legal age to enter into and be bound by this Agreement in your jurisdiction.
-    4. 7.2.2 If a non-natural person:
-        1. 7.2.2.1 you have been duly organised and validly existing under the laws of the jurisdiction of your organisation, you have the capacity, full power and have been duly authorised to execute these Terms and to perform your obligations arising hereunder; 
-        2. 7.2.2.2 you have full capacity and full power to request, access and receive the Registration services; and
-        3. 7.2.2.3 this Agreement has been duly executed by you (and any person or persons that have entered into this Agreement on your behalf were authorised to do so)  and constitutes your valid, binding and enforceable obligations.
-   5. 7.2.3 To the fullest extent permitted by applicable law and regulation, it is your SOLE responsibility to determine whether and to ensure that your acceptance of this Agreement and any use by you PASS Verify services comply with all applicable laws and regulations in your jurisdiction.
-   6. 7.2.4 Any use by you of PASS Verify services is for lawful purposes in your jurisdiction.
-   7. 7.2.5 You are acting on your own behalf and not for the benefit of any other person.
-   8. 7.2.6 You shall (at your own expense) promptly execute and deliver such documents and perform such acts as Blockpass may reasonably require from time to time for the purpose of giving full effect to this Agreement.
-   9. 7.2.7 You will make any further representations and warranties, abide by any covenants and acknowledge any limitations or risk notifications, as may be set out in the Token Terms.
+ 1. 7.1 You warrant that the information you provide is genuine and not fraudulent and that you will cooperate with Blockpass in a timely manner for any compliance related enquiry. 
+  2. 7.2 You confirm you that you are not a sanctioned person, or a politically exposed person.
+  3. 7.3 For the provision of PASS Verify on the terms set out in this Agreement, you agree to comply with all the warranties and undertakings described herein, including without limitation, in connection with the acquisition, use and disposal by you of any Tokens, as included in the Token Terms. 
+  4. 7.4 You further represent and warrant on the date of accepting this Agreement, which representations and warranties will be deemed repeated on each date on which this Agreement is in effect, the following:
+    3. 7.4.1 If a natural person, you are of a legal age to enter into and be bound by this Agreement in your jurisdiction.
+    4. 7.4.2 If a non-natural person:
+        1. 7.4.2.1 you have been duly organised and validly existing under the laws of the jurisdiction of your organisation, you have the capacity, full power and have been duly authorised to execute these Terms and to perform your obligations arising hereunder; 
+        2. 7.4.2.2 you have full capacity and full power to request, access and receive the Registration services; and
+        3. 7.4.2.3 this Agreement has been duly executed by you (and any person or persons that have entered into this Agreement on your behalf were authorised to do so)  and constitutes your valid, binding and enforceable obligations.
+    5. 7.4.3 To the fullest extent permitted by applicable law and regulation, it is your SOLE responsibility to determine whether and to ensure that your acceptance of this Agreement and any use by you PASS Verify services comply with all applicable laws and regulations in your jurisdiction.
+    6. 7.4.4 Any use by you of PASS Verify services is for lawful purposes in your jurisdiction.
+    7. 7.4.5 You are acting on your own behalf and not for the benefit of any other person.
+    8. 7.4.6 You shall (at your own expense) promptly execute and deliver such documents and perform such acts as Blockpass may reasonably require from time to time for the purpose of giving full effect to this Agreement.
+    9. 7.4.7 You will make any further representations and warranties, abide by any covenants and acknowledge any limitations or risk notifications, as may be set out in the Token Terms.
 
 #### 8. Consequences of non-compliance
 
-If we ascertain that you are in or have committed a breach of any of your obligations under this Agreement, we may revoke your access to PASS Verify and refuse to accept any subsequent Address Registration Requests from you, cancel any pending Address Registration Requests and / or decline to arrange the designation as a Verified Token Address of any public blockchain network address that you have submitted to us in connection with any previously accepted Address Registration Request, as we deem appropriate in our sole absolute discretion, immediately on notice.
+If we ascertain that you are in or have committed a breach of any of your obligations under this Agreement, we may revoke your access to PASS Verify and refuse to accept any subsequent Address Registration Requests from you, disable your account, cancel any pending Address Registration Requests and / or decline to arrange the designation as a Verified Token Address of any public blockchain network address that you have submitted to us in connection with any previously accepted Address Registration Request, as we deem appropriate in our sole absolute discretion, with immediate effect.
 
 #### 9. Privacy and Data Protection
 
@@ -127,7 +130,7 @@ If we ascertain that you are in or have committed a breach of any of your obliga
    1. 11.1 To the maximum extent permitted by applicable law, Blockpass disclaims all representations and warranties, whether express, implied or statutory, with regard to the foregoing, including, without limitation: any warranty with respect to the content, information, availability of, or uninterrupted access to PASS Verify or products provided through or in connection with PASS Verify, including without limitation, any Address Registration Certificate.
    2. 11.2 To the maximum extent permitted by applicable law, in no event will Blockpass or any Indemnified Party (as such term is defined in the Token Terms) be responsible or liable, whether in contract, tort (including negligence), breach of statutory duty, misrepresentation, restitution, breach of trust, breach of fiduciary duty or otherwise, for any claims, damages, liabilities, losses, costs or expenses of any kind, whether direct or indirect, consequential, compensatory, incidental, actual, exemplary, punitive or special (including damages for loss of business, revenues, profits, investment opportunities, data use, goodwill or other intangible losses) regardless of whether Blockpass or any Indemnified Party has been advised of the possibility of such damages, liabilities, losses, costs or expenses, arising out of or in connection with: (a) any provision of or failure to provide the registration services via PASS Verify; (b) any reliance on, or decision made on the basis of, information or material provided by Blockpass, or any Indemnified Party (including without limitation, as part of this Agreement); (c) any acts, omissions, statements or representations of any third party, including but not limited to any (or any other) Indemnified Party; (d) any failure by you to provide a blockchain network address that satisfies in full the Address Criteria in connection with any accepted Address Registration Request submitted by you, or (e) any unauthorized access, use or alteration of PASS Verify via your local network. 
    3. 11.3 Blockpass shall not be in breach of these terms nor liable for delay in performing, or for failing to perform, any of its obligations under this Agreement if such delay or failure results from events, circumstances or causes beyond its reasonable control.
-   4. 11.4 Blockpass shall not be liable for any trading losses, loss of profits, indirect, special, punitive, consequential, or incidental loss or damage, even if they have been advised of the possibility of such damages. Nothing in this Agreement shall limit or exclude our liability for:death or personal injury resulting from our negligence;fraud or fraudulent misrepresentation; andany other liability that cannot be excluded or limited by law of the local jurisdiction. 
+   4. 11.4 Blockpass shall not be liable for any trading losses, loss of profits, indirect, special, punitive, consequential, or incidental loss or damage, even if they have been advised of the possibility of such damages. Nothing in this Agreement shall limit or exclude our liability for: (a) death or personal injury resulting from our negligence; (b) fraud or fraudulent misrepresentation; and (c) any other liability that cannot be excluded or limited by laws of Hong Kong Special Administrative Region. 
 
 #### 12. Assignment & Successors
 
@@ -136,7 +139,7 @@ If we ascertain that you are in or have committed a breach of any of your obliga
 
 #### 13. Variation
 
-   1. 13.1 Blockpass may change the terms of this Agreement at any time and will provide you with notice of any such changes via their website. In addition, with respect to any changes to the Token Terms in particular, it is Blockpass’ understanding that notification will also be provided separately by the Issuer of the Tokens in accordance with the procedure described therein.
+   1. 13.1 Blockpass may change the terms of this Agreement at any time and will display the updated version on the website. You are encouraged to check the website regularly for such updates. In addition, with respect to any changes to the Token Terms in particular, it is Blockpass’ understanding that notification will also be provided separately by the Issuer of the Tokens in accordance with the procedure described therein.
    2. 13.2 If after notification of any such changes, you continue to use PASS Verify and / or continue to acquire or retain any Tokens you will be deemed to have accepted this Agreement (including the Token Terms, when applicable) as amended.
 
 #### 14. Severance
@@ -151,7 +154,7 @@ If any provision or part-provision of this Agreement is or becomes invalid, ille
 
 ### 16. Rights and Remedies
 
-   1. 16.1 Except as expressly provided in these Terms, the rights and remedies provided under these Terms are in addition to, and not exclusive of any rights or remedies provided by law.
+   1. 16.1 Except as expressly provided in this Agreement, the rights and remedies herein are in addition to, and not exclusive of any rights or remedies provided by law.
    2. 16.2 Without prejudice to any other rights or remedies that Blockpass, or any Indemnified Party may have, you acknowledge and agree that damages alone may not be an adequate remedy in respect of any breach by you of this Agreement. Accordingly, Blockpass, and the Indemnified Parties shall be entitled to seek the remedies of injunction, specific performance or other equitable relief for any threatened or actual breach of this Agreement.
 
 ### 17. Governing Law & Dispute Resolution
