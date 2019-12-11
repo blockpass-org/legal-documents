@@ -1,6 +1,6 @@
 # PASS VERIFY REGISTRATION AGREEMENT
 
- ## v 2.1 - Effective from 7 November 2019
+ ## v 2.2 - Effective from 12 December 2019
 
 This Agreement governs the relationship between you (the "Member") and Blockpass IDN Limited, a company registered in Hong Kong under number 2566876 and address at Suite 1701-02 17F FWD Financial Centre, 308 Des Voeux Road, Central Hong Kong (“Blockpass”, "us" or "we") for your registration as a Member of Blockpass will include the registration of a suitable address for the holding and activation of PASS tokens (the “Tokens”). By proceeding with this Registration you agree to be bound by the terms of this Agreement (the “Agreement”), including any Schedules and Appendices. Please read this Agreement and the Token Terms in Schedule 1 carefully before proceeding.
 
@@ -45,7 +45,7 @@ Blockpass shall process the registration under this Agreement on behalf of the I
    1. 2.2 By proceeding with this registration you are deemed to:
       (a) have accepted the most recent version of the Terms of Service (“ToS”) for the Blockpass products and services, published by us at https://www.blockpass.org/terms/ and also made available via the Blockpass App. The ToS may be updated from time to time at our sole discretion; (b) have access to the most up-to-date version of the Blockpass App on a mobile device that you own, control or use, with which you intend to access the PASS Verify; (c) you have successfully completed Blockpass IDN’s identity verification service using the Blockpass Identity application feature within the Blockpass App, and have subsequently received a Blockpass ID and an associated Verified ID Certificate.
 
-   1. 2.3 In order to register your Tokens you will have to meet the Know Your Customer (“KYC”) and Anti-Money Laundering (“AML”) ongoing requirements. Blockpass shall request information from you, including but not limited to (a) full name; (b) address; (c) date of birth; (d) photo ID; (e) proof of address; (f) selfie passport; and (g) video verification.
+   1. 2.3 In order to register your Tokens you will have to meet the Know Your Customer (“KYC”) and Anti-Money Laundering (“AML”) ongoing requirements. Blockpass shall request information from you, including but not limited to (a) full name; (b) address; (c) date of birth; (d) photo ID; (e) proof of address; (f) selfie; (g) passport or national ID; and (h) video verification.
    2. 2.4 Subject to you meeting all KYC requirements and providing a compatible address on the public blockchain networt, the registration will be approved and you will become a Member of Blockpass.
 
 #### 3. This Agreement
