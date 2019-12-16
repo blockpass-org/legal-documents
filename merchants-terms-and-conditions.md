@@ -203,8 +203,7 @@ Where Blockpass provides links from its website/platform to other sites and reso
 
 1. 12.1 Pricing information will be provided on the Merchant Dashboard. Invoices will be issued monthly in arrears.
 2. 12.2    Blockpass reserves the right to modify the Services which may include changes in pricing. Blockpass will do so with reasonable notice to the Merchant and the continued use of the Services will be deemed as acceptance of such changes.
-3. 12.2 Subject to a minimum of 500 profile checks, the Merchant is eligible to the following discount when paying in advance for **PASS VERIFY Services only**: 
-   2. 50% discount when paying in PASS tokens. 
+3. 12.2 Payment in PASS tokens is available for **PASS VERIFY Services only**. For KYC Connect you are free to pay in US Dollars. For discounts on volume please contact our sales team at sales@blockpass.org
 4. 12.3 Blockpass reserves the right to make changes to the discounts at its absolute discretion with reasonable notice to the Merchant.
 5. 12.4 Blockpass reserves the right to change the price of the products at its absolute discretion. The Merchant will be notified in advance of such changes.
 6. 12.5 If Fees are not paid within the time stated Blockpass reserves the right to:
