@@ -1,6 +1,6 @@
 ## BLOCKPASS MERCHANT TERMS AND CONDITIONS
 
-###### v 5.2 Last updated 10 February 2020
+###### v 5.2 Last updated 20 February 2020
 
 These Terms and Conditions (hereinafter referred to as “T&Cs” or “Terms”) apply to Blockpass KYC Connect services, and all associated services, provided by Blockpass to Merchants (collectively, the “Services”). By using the Services, you agree to these T&Cs. Please read these Terms, our Privacy Policy, and any other document referred to here.
 
@@ -85,19 +85,23 @@ The following definitions and interpretations apply to these terms.
 4. 4.4 Blockpass reserves the right to cancel the Promotion at any time based on the above without compromising any section of these T&Cs.
 5. 4.5 Blockpass may terminate the Promotion unilaterally and without cause with a week written notice to the Merchant.
 
-### 5. AdPASS Services
+### 5. AdPASS services
 
-1. 5.1   Blockpass may agree with the Merchant a special offer for Users via the AdPASS service ("**AdPASS**"). This offer will be added to Blockpass Marketplace and displayed to Users where they can access the offer via an unique link. 
-2. 5.2  Blockpass will receive a commission for this Service which can be as a direct payment from the Merchant or a rebate. 
-3. 5.3 The Merchant shall: 
-4. - Provide accurate information on the terms of the offer;
-   - Undertake to deliver the offer to the Users in a timely manner;
-   - Undertake to comply with any rebate offered by Blockpass as a result of this offer;
-   - Notify Blockpass on a quarterly basis, unless otherwise agreed, on the number of Users accessing the offer and the amount of commission due to be paid to Blockpass;
-   - Pay Blockpass' commission or in a monthly basis, or as agreed by the parties;
-   - Subside Blockpass for any rebate offered based on this section.
+Blockpass offers the ability for Merchants to advertise their services to the existing Blockpass user network via an AdPASS Offer (“**Offer**”). There are no outright costs for the Merchant on AdPASS however a commission may be agreed by the Parties. If the Offer involves access to a regulated product or service Blockpass reserves the right to not receive any commission for bringing new customers to the Merchant. At times Blockpass may also offer a rebate to its Users. In this context a rebate refers to paying back to the User a portion of the fees or charges that they might have paid to a Merchant. Blockpass pays this rebate with part of the commission received from the Merchant. The AdPASS service consists of Blockpass collecting materials and information from the Merchant and creating a specific page on its Marketplace where the Offer can be displayed to Blockpass Users. The terms of the Offer are explained on that page. Based on the above the following conditions apply to Merchants using the AdPASS Service: 
 
-1. 5.4 The Merchant takes full responsibility for the terms of the offer and the payment and delivery of any applicable advantage/discount to Users.
+1. 5.1  The terms of the Offer and commission involved shall be agreed by the Parties separately and Users must meet all requirements to be eligible. The Offer will be added to the Blockpass Marketplace with a unique link provided by the Merchant where Users can be identified for commission purposes.  
+2. 5.2  The Merchant shall: 
+   1. 5.2.1 Provide accurate information on the terms of the Offer and services to be provided to Users;
+   2. 5.2.2 Undertake to deliver the Offer to the Users in a timely manner;
+   3. 5.2.3 Undertake to comply with any rebate offered by Blockpass to the Users as a result of the agreed Offer;
+   4. 5.2.4 Notify Blockpass on a monthly basis, unless otherwise agreed, on the number of Users accessing the Offer, amount of revenue generated and where applicable commission due to be paid to Blockpass;
+   5. 5.2.5 Pay any commission due to Blockpass in a timely manner and upon receipt of invoice from Blockpass
+3. 5.3  The Merchant takes full responsibility for the terms of the Offer, their execution and delivery of any applicable advantage/discount to Users.
+4. 5.4 The Merchant takes full responsibility for the payment of the agreed commission to Blockpass and undertakes to indemnify Blockpass for any financial losses arising from the Merchant’s non compliance with these Terms.
+5. 5.5 The Merchant warrants and represents that they are the licence holder and own their intellectual property. The Merchant grants Blockpass a personal, non-exclusive licence to use the Merchant’s intellectual property to the extent necessary in connection with the Offer.
+6. 5.6 The Merchant will indemnify, defend and hold harmless, Blockpass, its officers, employees, agents and subcontractors against all liabilities, damages, losses, costs or expenses (including legal fees) brought against Blockpass for infringement of third party’s trademark, copyright, patent or other intellectual property right, or misappropriation a third party’s trade secret. 
+7. 5.7 Blockpass reserves the right to request an audit with regards to the number Users accessing the Offer/revenue generated or any other relevant information. 
+8. 5.8 Subject to the Dispute Resolution clauses in these T&Cs, any dispute arising out of AdPASS service, which may include the commission payable, shall be addressed by representatives of the Parties confidentially and amicably. 
 
 ### 6. Services provided by our Partners and Verifiers
 
